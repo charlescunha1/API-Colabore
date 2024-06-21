@@ -1,0 +1,6 @@
+@ColaboreApi_HostAddress = http://localhost:5083
+
+GET {{ColaboreApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
